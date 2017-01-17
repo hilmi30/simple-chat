@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "443095991698",
+    "firebase_url": "https://realtimechat-74e56.firebaseio.com",
+    "project_id": "realtimechat-74e56",
+    "storage_bucket": "realtimechat-74e56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443095991698:android:d3839489b6ba1291",
+        "android_client_info": {
+          "package_name": "com.simplechat.simplechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443095991698-28h7cdi5nkug45ub6ra6bb0nf6vgru10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simplechat.simplechat",
+            "certificate_hash": "7336051B1A9A7DDD595A46F3B2BF2F8FC0F9679A"
+          }
+        },
+        {
+          "client_id": "443095991698-1tursqve6d0cihon4lboi97mabr79f51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW69n9aPxMvWLwBfr2ecY_4nJ-dv6GS5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443095991698-1tursqve6d0cihon4lboi97mabr79f51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
